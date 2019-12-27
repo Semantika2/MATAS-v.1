@@ -1,4 +1,4 @@
-# MATAS-v.2
+# MATAS-v.1
 Rankiniu būdu morfologiškai anotuotas tekstynas MATAS v.2 ("auksinis standartas")
 
 APRAŠYMAS
