@@ -1,5 +1,5 @@
 # MATAS-v.1
-Rankiniu būdu morfologiškai anotuotas tekstynas MATAS v.2 ("auksinis standartas")
+Rankiniu būdu morfologiškai anotuotas tekstynas MATAS v.1 ("auksinis standartas")
 
 APRAŠYMAS
 Ranka taisytas morfologiškai anotuotas tekstynas MATAS pateikiamas CoNLL-U formatu.
