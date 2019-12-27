@@ -82,4 +82,4 @@ Licencija: atvirojo kodo vystymo
 https://clarin.vdu.lt/xmlui/handle/20.500.11821/33
 
 Finansavimo šaltinis:
-Išteklio vuytui finansavimas gautas iš projektų Semantiks, Clarin LT, "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002). Semantika2 projektas finansuojamas Europos Regioninio fondo lėšomis. Projekto vykdytojas – Vytauto Didžiojo universitetas.
+Išteklio vuytui finansavimas gautas iš projektų Semantika1, Clarin LT, "Semantika2" (Nr. 02.3.1-CPVA-V-527-01-0002). Semantika2 projektas finansuojamas Europos Regioninio fondo lėšomis. Projekto vykdytojas – Vytauto Didžiojo universitetas.
