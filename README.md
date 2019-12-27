@@ -78,4 +78,5 @@ SUDARYTOJAI
 Erika Rimkutė, Agnė Bielinskienė, Loic Boizou, Virginijus Dadurkevičius, Jolanta Kovalevskaitė, Andrius Utka
 
 Licencija: atvirojo kodo vystymo
+
 https://clarin.vdu.lt/xmlui/handle/20.500.11821/33
